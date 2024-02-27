@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nimrod</h1>
-<h3 align="center">I am passionate about Software Developent</h3>
 
-- 🌱 I’m currently learning **Full Stack Development** 
+- 🌱 I’m currently learning **Data Science** 
 
-- 👯 I’m looking to collaborate on **Open Source projects**
+- 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 💬 Ask me anything about **Software Development**
+- 💬 Ask me anything about **Python/Django**
 
 - 📫 How to reach me **nimrodmasini@gmail.com**
 
@@ -13,7 +12,7 @@
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href"https://twitter.com/__masini_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__masini_" height="30" width="40" /></a>
+<a href"https://twitter.com/nimrod_masini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__masini_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nimrod-masini-80557021a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nimrod Masini" height="30" width="40" /></a>
 </p>
 
