@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nimrod</h1>
+<h1 align="center">Hi 👋, I'm Masini</h1>
 
 - 🌱 I’m currently learning **Data Science** 
 
