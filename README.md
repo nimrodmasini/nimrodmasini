@@ -7,7 +7,7 @@ I am **Nimrod Masini**, a **Data Analyst** and **Scientist** passionate about so
 - 🚀 Currently upskilling in Data Engineering and Advanced Machine Learning.
 - 🔎 I’m actively seeking opportunities in data-centric roles; open to remote or hybrid setups.
 - 🤝 I’m looking to collaborate on impactful AI/ML projects, especially in agriculture, health, and education.
-- 📫 Reach me at: [nimrodmasini@gmail.com], +254113933507
+- 📫 Reach me at: nimrodmasini@gmail.com, +254113933507
 - 🎧 Fun fact: I enjoy gospel music and early morning coding sprints.
 - ⚙️ Pronouns: He/Him
 
