@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**nimrodmasini/nimrodmasini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Nimrod Masini**. I am a **Data Analyst** and **Scientist** passionate about solving real-world problems through data-driven insights and scalable systems.
 
-Here are some ideas to get you started:
+- 📊 I specialize in building machine learning models, dashboards, and automation pipelines.
+- 💻 I’m skilled in Python, SQL, Power BI and Excel, as well as Machine Learning.
+- 🚀 Currently upskilling in Data Engineering and Advanced Machine Learning.
+- 🔎 I’m actively seeking opportunities in data-centric roles; open to remote or hybrid setups.
+- 🤝 I’m looking to collaborate on impactful AI/ML projects, especially in agriculture, health, and education.
+- 📫 Reach me at: [nimrodmasini@gmail.com], +254113933507
+- 🎧 Fun fact: I enjoy gospel music and early morning coding sprints.
+- ⚙️ Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📍 Find me on:
+- [LinkedIn](https://linkedin.com/in/nimrodmasini)
+---
+
+> "Turning insights into action, one model at a time."
